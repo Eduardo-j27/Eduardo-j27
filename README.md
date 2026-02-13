@@ -1,4 +1,4 @@
-<img src="https://github.com/Eduardo-j27.png" width="180" style="border-radius: 50%; margin-bottom: 20px;" />
+<img src="https://github.com/Eduardo-j27.png" width="180" style="border-radius: 50%; margin-bottom: 210px;" />
 
 # 👋 Olá! Eu sou o Eduardo
 
