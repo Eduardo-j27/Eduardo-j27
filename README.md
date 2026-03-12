@@ -13,6 +13,23 @@ Sou apaixonado por tecnologia, computadores e suporte técnico. Estou iniciando 
 
 ## 💻 Habilidades técnicas
 
+# 👨‍💻 Eduardo
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Focado em Python, APIs e desenvolvimento web  
+
+---
+
+## 📊 GitHub Stats
+
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-j27&show_icons=true&theme=tokyonight)
+
+---
+
+## 🚀 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-j27&layout=compact&theme=tokyonight)
+
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
