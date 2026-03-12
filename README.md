@@ -1,5 +1,3 @@
-<img src="https://github.com/Eduardo-j27.png" width="180"/>
-
 # 👋 Olá! Eu sou o Eduardo
 
 💻 Apaixonado por tecnologia, computadores e suporte técnico.
@@ -24,16 +22,6 @@
 
 ---
 
-# 🏆 Conquistas no GitHub
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Eduardo-j27&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 # 🛠 Tecnologias
 
 <p>
@@ -53,14 +41,22 @@
 
 ### 🔎 Buscador de CEP com Python e Flask
 
-Aplicação web que consulta CEP usando API e mostra:
+Aplicação web que consulta CEP usando API e mostra o endereço completo em uma interface web.
 
-✔ endereço completo
-✔ integração com mapas
-✔ interface web
-
-🌐 **Acessar projeto:**
+🌐 Acessar projeto:
 https://consulta-cep-flask.onrender.com
+
+---
+
+### 📊 Análise de Dados com Python
+
+Projeto de análise de dados utilizando **Python** e bibliotecas como **Pandas** e **Matplotlib** para identificar padrões em registros de clientes e gerar visualizações de dados.
+
+---
+
+### 🤖 Automação de Cadastro com Python
+
+Automação desenvolvida em **Python** utilizando **PyAutoGUI** e **Pandas** para automatizar tarefas de cadastro em sistemas, reduzindo trabalho manual e aumentando a eficiência.
 
 ---
 
@@ -70,17 +66,7 @@ Tenho grande interesse em iniciar minha carreira profissional na área de TI.
 
 Gosto de resolver problemas, ajudar pessoas e trabalhar com computadores.
 
-Meu objetivo atual é **conquistar minha primeira oportunidade como estagiário de TI** e evoluir como desenvolvedor.
-
----
-
-# 👀 Visitantes do perfil
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Eduardo-j27&label=Visualizações%20do%20perfil&color=0e75b6&style=flat"/>
-
-</p>
+Meu objetivo atual é **conquistar minha primeira oportunidade como estagiário de TI** e continuar evoluindo na área de tecnologia.
 
 ---
 
