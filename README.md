@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Eduardo
+# 👋 Olá, Mundo! Eu sou o Eduardo
 
 💻 Apaixonado por tecnologia, computadores e suporte técnico.
 🚀 Iniciando minha carreira em TI e sempre buscando evoluir.
